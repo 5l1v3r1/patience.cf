@@ -1,4 +1,4 @@
-# Patience
+# patience.cf 🕒
 To infinity and beyond - Waiting for the page to load... Forever.
 
 ## Proof of Concept (PoC)
